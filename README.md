@@ -1,17 +1,28 @@
+<p align="center">
+  <img src="https://github.com/24spell/24spell/blob/main/ezgif.com-gif-maker.gif" alt="Oi, eu sou a Ally"></p>
+
 #### Ally aqui!
 Sou graduanda em Computação pelo IFRJ e estudante/amante de Desenvolvimento e Data Science.
+#### Dentre meus interesses e habilidades em Tecnologia da Informação estão:
+  
+- Ciência de Dados
+- Machine Learning
+- Processamento de Linguagem Natural
+- Blockchain
+- Criptoeconomia
+- Deep Learning
 
-<div>
+<div align="center">
   <a href="https://github.com/24spell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=24spell&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24spell&layout=compact&langs_count=7&theme=synthwave"/>
+ <p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=24spell&show_icons=true&locale=en" alt="24spell"/></p>
+ <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24spell&layout=compact&langs_count=7&theme=white"/></p>
 </div>
  
-#### Dentre minhas habilidades e interesses em T.I. estão:
+ ### Algumas das ferramentas que uso:
   
-  Ciência de Dados | Python | Machine Learning | Processamento de Linguagem Natural | Jupyter | Deep Learning | SQL | AWS
-  
-  
+<h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=24spell&label=Profile%20views&color=0e75b6&style=flat" alt="24spell" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=24spell&" alt="24spell" /></p>
   
  <div> 
  <a href="https://www.linkedin.com/in/alexializaguiar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
