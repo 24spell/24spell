@@ -37,8 +37,8 @@ Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados 
   
 <div align="center">
   <a href="https://github.com/24spell">
-    <p align"center"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=24spell&show_icons=true&locale=en" alt="24spell"/>
-      <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=24spell&" alt="24spell"/>
+    <p align"center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=24spell&show_icons=true&locale=en" alt="24spell"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=24spell&" alt="24spell"/>
     </p>
 </div>
 
