@@ -3,7 +3,7 @@
 </p>
 
 #### Ally aqui!
-Sou graduanda em Computação pelo IFRJ e estudante/amante de Desenvolvimento e Data Science.
+Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados e Desenvolvimento.
 #### Dentre meus interesses e habilidades em Tecnologia da Informação estão:
   
 - Ciência de Dados
