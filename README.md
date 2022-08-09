@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/24spell/24spell/blob/main/header-banner.gif" alt="Oi, eu sou a Ally">
-</p>
+</p> <div align="right">
+  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img src="https://github.com/24spell/24spell/blob/main/en-button.png" alt="read it in english"/>
+ </div>
 
 #### Ally aqui!
 Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados e Desenvolvimento.
@@ -69,10 +71,6 @@ Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados 
 <br/>
 <br/>
 <br/>
-<div align="left">
-  <p>Read it in: </p>
-  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img src="https://github.com/24spell/24spell/blob/main/en-button.png" alt="read it in english"/>
- </div>
   
 <div align="right">
   <p> <img src="https://komarev.com/ghpvc/?username=24spell&label=Profile%20views&color=0e75b6&style=flat" alt="24spell"/> </p>
