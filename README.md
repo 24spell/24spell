@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/24spell/24spell/blob/main/header-banner.gif" alt="Oi, eu sou a Ally">
 </p> <div align="right">
-  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="40em" src="https://github.com/24spell/24spell/blob/main/english-button.png" alt="read it in english"/>
+  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" alt="read it in english"/>
  </div>
 
 #### Ally aqui!
