@@ -64,12 +64,12 @@ Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados 
     </p>
 </div>
 
-<div align="left">
+
   
 <br/>
 <br/>
 <br/>
   
-  <p>📊 Métricas do Github</p>
+<div align="right">
   <p> <img src="https://komarev.com/ghpvc/?username=24spell&label=Profile%20views&color=0e75b6&style=flat" alt="24spell"/> </p>
 </div>
