@@ -14,9 +14,10 @@ Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados 
 - Blockchain
 - Criptoeconomia
 - Deep Learning
+
 <br/>
-<details>
-    <summary><b>Minhas principais linguagens e ferramentas</b></summary>
+
+<b>Minhas principais linguagens e ferramentas:</b>
   <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -45,7 +46,6 @@ Sou graduanda em Computação pelo IFRJ e estudante/amante de Ciência de Dados 
   <br/>
   <br/>
  <p align="center"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24spell&langs_count=4&theme=dark"/></p>
- </details>
 <br/>
 <br/>
 
