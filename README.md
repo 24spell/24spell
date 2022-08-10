@@ -40,7 +40,7 @@ Sou estudante de Computação pelo IFRJ e estudante/amante de Ciência de Dados 
   <a href="https://www.aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/> </a>
   <a href="https://www.code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="50" height="50"/> </a>
   <a href="https://www.pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="flask.png" alt="flask" width="40" height="55"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="fl.png" alt="flask" width="50" height="50"/> </a>
    <a href="https://jupyter.org/try-jupyter/retro/notebooks/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="50" height="50"/> </a>
   <br/>
   <br/>
